@@ -1,0 +1,2 @@
+# sigma-kalkulator
+hellnah
